@@ -1,0 +1,13 @@
+run to cmd to close all session went show error
+taskkill /F /IM LUXESCAPE.exe
+
+
+to email to manger and create email to manger please change email normal to manger manual for security
+Manger1234@gmail.com
+1234
+
+Manger456@gmail.com
+1234
+
+
+please edit location the database in local the pc for you !!!!!!!!!!!
